@@ -1,0 +1,16 @@
+{
+  "name": "contact-manager-api",
+  "version": "1.0.0",
+  "description": "Contact Manager API development using Express and Mongo DB",
+  "main": "www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Pavan Kumar",
+  "license": "MIT",
+  "dependencies": {}
+}
